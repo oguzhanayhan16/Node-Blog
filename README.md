@@ -23,4 +23,3 @@ This is a simple and functional **blog website** built with **Node.js**. The app
 - **Body-parser**, **dotenv**, **morgan**, etc.
 - **JWT / Express-session** for authentication (if available)
 
-## 📁 Project Structure
